@@ -1,0 +1,20 @@
+.classOne,
+.classTwo {
+    background-color: lightcoral;
+    font-family:sans-serif;
+}
+.classTwo{
+    font-size:35px;
+}
+#idOne{
+    color:blue;
+    font-size: 35px;
+    font-family:sans-serif;
+
+}
+#idTwo{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size:35px;
+    background-color: lightgreen;
+}
